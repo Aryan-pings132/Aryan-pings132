@@ -1,6 +1,5 @@
 # Hi, I'm Aryan 👋
-
-🎓 Cybersecurity student  
+🎓 BSc (Hons) Cybersecurity student at the University of Greenwich
 💻 Currently learning Python and cybersecurity  
 🔐 Interested in ethical hacking and information security  
 🌐 Exploring networking and security concepts
@@ -23,6 +22,13 @@
 
 I'm currently building small Python and cybersecurity projects to develop my practical skills.
 
+## 📚 Currently Learning
+
+- Cybersecurity fundamentals
+- Networking
+- Ethical hacking concepts
+- Linux
+- 
 ## 🎯 Goals
 
 - Build strong programming fundamentals
