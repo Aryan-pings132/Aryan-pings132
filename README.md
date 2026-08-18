@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**Aryan-pings132/Aryan-pings132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student  
+💻 Currently learning Python and cybersecurity  
+🔐 Interested in ethical hacking and information security  
+🌐 Exploring networking and security concepts
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Networking fundamentals
+- Cybersecurity fundamentals
+- Ethical hacking concepts
+
+## 🛠️ Skills
+
+- Python
+- Problem solving
+- Basic networking
+- Git & GitHub
+
+## 📂 Projects
+
+I'm currently building small Python and cybersecurity projects to develop my practical skills.
+
+## 🎯 Goals
+
+- Build strong programming fundamentals
+- Develop practical cybersecurity skills
+- Learn Linux and security tools
+- Build a portfolio of cybersecurity projects
